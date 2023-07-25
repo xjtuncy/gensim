@@ -16,3 +16,4 @@ nose
 wheel
 wheelhouse_uploader
 
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
