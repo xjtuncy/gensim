@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 
 MAINTAINER Parul Sethi <parul1sethi@gmail.com>
 
